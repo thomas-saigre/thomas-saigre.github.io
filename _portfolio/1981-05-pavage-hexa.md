@@ -2,6 +2,7 @@
 title: "Pavage apériodique sur grille hexagonale"
 excerpt: "Création d'un pavage apériodique sur grille hexagonale dans le cade d'un stage au Laboratoire Fondamental d'Informatique d'Orléans<br/><img src='/images/pavage/lepavage_head.png'>"
 collection: portfolio
+permalink: /portfolio/pavage_hexa
 ---
 
 **Éte 2019 :** stage de 6 semaines au sein du Laboratoire d'Informatique Fondamentale d'Orléans, sur l'étude des pavages.

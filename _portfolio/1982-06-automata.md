@@ -2,6 +2,7 @@
 title: "Automates cellulaires"
 excerpt: "Étude des automates cellulaires dans le cade du mémoire de L3 du Magistère de Mathématiques de Strasbourg<br/><img src='/images/automates/elem.png'>"
 collection: portfolio
+permalink: /portfolio/automata
 ---
 
 **Second semestre de l'année 2017 - 2018 :** Mémoire de Licence sur les automates cellulaires, sous la direction de Michel Coornaert
