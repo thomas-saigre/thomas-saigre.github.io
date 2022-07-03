@@ -1,0 +1,88 @@
+@font-face {
+  font-family: unistra;
+  src: url(ressources/font/UnistraA-Regular.ttf);
+}
+
+
+/* body {
+  background: linear-gradient(180deg, rgba(25, 4, 214, 0.4), rgba(0, 204, 255, 0));
+  background-attachment: fixed;
+} */
+
+.page-content {
+  font: 16px Arial, sans-serif;
+  max-width: 600pt;
+  margin-left: 200pt;
+  padding: 0px 10px;
+  text-align:justify;
+}
+
+h1,h2{
+  font-family:unistra, sans-serif;
+  color: slategray;
+
+  margin: 0px;
+  padding-bottom: 0px; 
+  padding-top: 20px;
+}
+
+hr{
+  height: 0;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	border: 0;
+	border-top: 1px solid slategray;
+}
+
+
+.parallax {
+  /* The image used */
+  background-color:#318CE7;
+
+  /* Set a specific height */
+  min-height: 300px; 
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-top: -20px;
+  margin-left: -20px;
+  margin-right: -20px;
+  font: 16px Arial, sans-serif;
+}
+
+.side-images{
+  width: 200px; /* Set the width of the sidebar */
+  position: fixed; /* Fixed Sidebar (stay in place on scroll) */
+  z-index: 1; /* Stay on top */
+  top: 0; /* Stay at the top */
+  left: 0;
+  overflow-x: hidden; /* Disable horizontal scroll */
+  padding-top: 300px; 
+text-align: center
+}
+
+.coverartist{
+  text-align: right;
+  font: 8pt unistra;
+}
+
+
+.bottom {
+  /* The image used */
+  background-color: #318CE7;
+
+  /* Set a specific height */
+  min-height: 50px; 
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-bottom: -20px;
+  margin-left: -20px;
+  margin-right: -2px;
+  
+}
