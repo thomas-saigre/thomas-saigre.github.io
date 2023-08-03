@@ -1,0 +1,29 @@
+#!/bin/bash
+
+# Function to display error messages and exit the script
+print_error()
+{
+  echo "Error: $1"
+  exit 1
+}
+
+# Function to check if a command was successful or not
+check_success()
+{
+  if [ $? -ne 0 ]; then
+    print_error "$1"
+  fi
+}
+
+# Step 1: Pull from the Git repository
+echo "Pulling changes from the Git repository..."
+git pull
+check_success "Failed to pull changes from the Git repository."
+
+# Step 2: Run the 'majhome' program
+echo "Running majhome"
+majhome
+check_success "'majhome' program failed to run."
+
+# If everything ran successfully, print a success message
+echo "All processes completed successfully."
