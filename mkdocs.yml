@@ -24,6 +24,7 @@ theme:
     - navigation.tabs
     - navigation.sections
     - navigation.instant
+    - navigation.top
 
 plugins:
   - search
