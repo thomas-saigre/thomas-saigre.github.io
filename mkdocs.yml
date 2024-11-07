@@ -35,9 +35,9 @@ extra_css:
 
 nav:
   - Home: index.md
-  - Research: research/research.md
-  - Teaching: teaching/teaching.md
-  - Miscellaneous: miscellaneous/miscellaneous.md
+  - Research: research.md
+  - Teaching: teaching.md
+  - Miscellaneous: miscellaneous.md
   - CV: cv.pdf
   # - Project 1: projects/project1.md
       # - Project 2: projects/project2.md

@@ -5,3 +5,5 @@ phd-redaction/*
 
 good.html
 bad.html
+
+site/**
