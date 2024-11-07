@@ -1,0 +1,46 @@
+site_name: Thomas Saigre
+site_author: Thomas Saigre
+
+theme:
+  name: material
+
+  palette:
+    # scheme: slate
+    # primary: blue
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: blue
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: blue
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.instant
+
+plugins:
+  - search
+  - git-revision-date-localized:
+      enable_creation_date: false
+
+extra_css:
+  - css/extra.css
+
+nav:
+  - Home: index.md
+  - Research: research/research.md
+  - Teaching: teaching/teaching.md
+  - Miscellaneous: miscellaneous/miscellaneous.md
+  - CV: cv.pdf
+  # - Project 1: projects/project1.md
+      # - Project 2: projects/project2.md
+  # - Blog:
+      # - Post 1: blog/post1.md
+      # - Post 2: blog/post2.md
