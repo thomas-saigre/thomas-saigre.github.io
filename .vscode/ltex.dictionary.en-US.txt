@@ -23,3 +23,8 @@ Cemosis
 Université
 CMBE
 pdf-badge
+BadgePDF
+CompBioMed
+DOIDOI
+HALHAL
+arXivarXiv

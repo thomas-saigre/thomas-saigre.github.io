@@ -4,7 +4,7 @@
     text-align: justify;
 }
 
-.pdf-badge {
+.badge {
   display: inline-flex;
   align-items: center;
   color: #2094f3;
@@ -15,9 +15,7 @@
   /* background-color: #1e2129; */
 }
 
-.pdf-badge img {
+.badge img {
   height: 16px;
   margin-right: 8px; /* Increased space between icon and text */
 }
-
-
