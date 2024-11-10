@@ -16,3 +16,9 @@
 {"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QNithiarasu and R. Löhner (Eds.), 2024; pp. 508 – 512.\\E$"}
 {"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QMy CV :fontawesome-solid-file-pdf:{.md-button }\\E$"}
 {"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QMy CV :fontawesome-solid-file-pdf:{.md-button}\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\Q30 January 2024: Journées numériques de Besançon 2024: Model order reduction and sensitivity analysis for complex heat transfer simulations inside the human eyeball PDFPDF Slides{:.badge}\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\Q16 January 2024: Séminaire EDP de l'IRMA: Modèle de réduction d'ordre et analyse de sensibilité pour les simulations de transfert de chaleur à l'intérieur du globe oculaire humain.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\Q12 October 2023: Séminaire doctorant de l'IRMA: Estimation des interactions dans les communautés microbiennes via un algorithme GSA basé sur un réseau de neurones PDFPDF Slides{:.badge}\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\Q15 June 2023: Séminaire doctorant de l'IRMA: Réduction de modèles et analyse de sensibilité appliqué à un modèle biophysique dans l'œil humain PDFPDF Slides{:.badge}\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\Q1 December 2022: Séminaire Jeunes Chercheurs, at Laboratoire Mathématiques de Reims: Modèles de réduction d’ordre des simulations oculaires complexes dans l’œil humain PDFPDF Slides{:.badge}\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\Q9 December 2021: Séminaire doctorant de l'IRMA: Construction de jeux de tuiles apériodiques sur grille héxagonale PDFPDF Slides{:.badge}\\E$"}

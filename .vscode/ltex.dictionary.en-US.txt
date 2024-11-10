@@ -28,3 +28,12 @@ CompBioMed
 DOIDOI
 HALHAL
 arXivarXiv
+CANUM
+CSMI
+Zohra
+Djatouti
+Hild
+Magistère
+Delacourt
+Ollinger
+Coornaert
