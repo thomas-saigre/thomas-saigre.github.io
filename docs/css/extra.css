@@ -3,3 +3,21 @@
 .md-content li {
     text-align: justify;
 }
+
+.pdf-badge {
+  display: inline-flex;
+  align-items: center;
+  color: #2094f3;
+  padding: 0px 12px; /* Increased padding */
+  border: 1px solid #2094f3; /* Border color */
+  border-radius: 4px; /* Slight rounding for a badge look */
+  text-decoration: none;
+  /* background-color: #1e2129; */
+}
+
+.pdf-badge img {
+  height: 16px;
+  margin-right: 8px; /* Increased space between icon and text */
+}
+
+

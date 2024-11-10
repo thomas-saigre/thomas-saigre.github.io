@@ -3,6 +3,8 @@ title: Research
 hide:
     - navigation
 ---
+<!-- LTeX: language=fr-FR -->
+
 
 ## Année 2023 - 2024
 

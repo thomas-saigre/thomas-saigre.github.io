@@ -34,14 +34,26 @@ plugins:
 extra_css:
   - css/extra.css
 
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/thomas-saigre
+    - icon: fontawesome/brands/orcid
+      link: https://orcid.org/0009-0009-5763-4956
+    - icon: fontawesome/brands/google-scholar
+      link: https://scholar.google.fr/citations?user=eXz9qmcAAAAJ&hl=fr&oi=ao
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/thomas-saigre-09722a1b7/
+
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
 nav:
   - Home: index.md
   - Research: research.md
   - Teaching: teaching.md
   - Miscellaneous: miscellaneous.md
   - CV: cv.pdf
-  # - Project 1: projects/project1.md
-      # - Project 2: projects/project2.md
-  # - Blog:
-      # - Post 1: blog/post1.md
-      # - Post 2: blog/post2.md
