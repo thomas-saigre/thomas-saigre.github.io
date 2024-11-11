@@ -1,0 +1,60 @@
+site_name: Thomas Saigre
+site_author: Thomas Saigre
+
+theme:
+  name: material
+  logo: assets/logo.svg
+
+  palette:
+    # scheme: slate
+    # primary: blue
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: blue
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: blue
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.instant
+    - navigation.top
+
+plugins:
+  - search
+  - git-revision-date-localized:
+      enable_creation_date: false
+
+extra_css:
+  - css/extra.css
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/thomas-saigre
+    - icon: fontawesome/brands/orcid
+      link: https://orcid.org/0009-0009-5763-4956
+    - icon: fontawesome/brands/google-scholar
+      link: https://scholar.google.fr/citations?user=eXz9qmcAAAAJ&hl=fr&oi=ao
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/thomas-saigre-09722a1b7/
+
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+nav:
+  - Home: index.md
+  - Research: research.md
+  - Teaching: teaching.md
+  - Miscellaneous: miscellaneous.md
+  - CV: cv.pdf

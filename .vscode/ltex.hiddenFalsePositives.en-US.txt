@@ -1,0 +1,24 @@
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QCo-organizer of the IRMA doctoral seminar in 2022-2023 with Brieuc Frénais.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QMember of the steering committee for the Intsitut Thématique Interdisciplinaire IRMIA++ en 2022-2023.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QSupervision of the Cercle Mathématiques de Strasbourg team in 2024 and 2023.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QMember of the Regional Organizing Committee for the Strasbourg regional tournaments of the Tournois Français des Jeunes Mathématiciennes et Mathématiciens in 2025, 2023 (April 15 and 16) 2021, (April 24 and 25, held online due to the pandemic), and 2018 (April 7 and 8).\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QRendez-vous des Jeunes Mathématiciennes et Informaticiennes: Supervision of a research workshop at the RJMI 2024 and 2023 in Strasbourg.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QFête de la Science: animation of the Enig'maths course (2022, 2023) and of the IRMA stand on the cube and its nets (2022).\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qhal-04440736\nThomas Saigre, Vincent Chabannes, Christophe Prud'homme, and Marcela Szopos.\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qdoi:10.1002/cnm.3864 doi:10.1002/cnm.3864 doi:10.1002/cnm.3864\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qdoi:10.1002/cnm.3864 hal-04361954 arxiv-2401.01079\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QI'm a research engineer at the Center of Modelling and Simulation of Strasbourg (Cemosis), at the Institut de Recherche Mathématique Avancée (IRMA) in Strasbourg, France.\\E$"}
+{"rule":"EN_DIACRITICS_REPLACE","sentence":"^\\QI'm a research engineer at the Center of Modelling and Simulation of Strasbourg (Cemosis), at the Institut de Recherche Mathématique Avancée (IRMA) in Strasbourg, France.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QIn December 2024, I defended my PhD thesis under the supervision of Christophe Prud'homme (IRMA, Université de Strasbourg) and Marcela Szopos (MAP5, Université Paris Cité).\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QBureau: P-213 (building UFR de Mathématique et d'Informatique)\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QInstitut de Recherche Mathématique Avancée (IRMA)\\E$"}
+{"rule":"EN_DIACRITICS_REPLACE","sentence":"^\\QInstitut de Recherche Mathématique Avancée (IRMA)\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QNithiarasu and R. Löhner (Eds.), 2024; pp. 508 – 512.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QMy CV :fontawesome-solid-file-pdf:{.md-button }\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QMy CV :fontawesome-solid-file-pdf:{.md-button}\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\Q30 January 2024: Journées numériques de Besançon 2024: Model order reduction and sensitivity analysis for complex heat transfer simulations inside the human eyeball PDFPDF Slides{:.badge}\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\Q16 January 2024: Séminaire EDP de l'IRMA: Modèle de réduction d'ordre et analyse de sensibilité pour les simulations de transfert de chaleur à l'intérieur du globe oculaire humain.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\Q12 October 2023: Séminaire doctorant de l'IRMA: Estimation des interactions dans les communautés microbiennes via un algorithme GSA basé sur un réseau de neurones PDFPDF Slides{:.badge}\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\Q15 June 2023: Séminaire doctorant de l'IRMA: Réduction de modèles et analyse de sensibilité appliqué à un modèle biophysique dans l'œil humain PDFPDF Slides{:.badge}\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\Q1 December 2022: Séminaire Jeunes Chercheurs, at Laboratoire Mathématiques de Reims: Modèles de réduction d’ordre des simulations oculaires complexes dans l’œil humain PDFPDF Slides{:.badge}\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\Q9 December 2021: Séminaire doctorant de l'IRMA: Construction de jeux de tuiles apériodiques sur grille héxagonale PDFPDF Slides{:.badge}\\E$"}
