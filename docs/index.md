@@ -7,6 +7,14 @@ hide:
 
 # Welcome!
 
+[:fontawesome-solid-envelope:](mailto:thomas.saigre@math.unistra.fr){.md-button}
+[:fontawesome-brands-github:](https://github.com/thomas-saigre){.md-button}
+[:fontawesome-brands-google-scholar:](https://scholar.google.fr/citations?user=eXz9qmcAAAAJ&hl=fr&oi=ao){.md-button}
+[:fontawesome-brands-orcid:](https://orcid.org/0009-0009-5763-4956){.md-button}
+
+
+
+
 ## About me
 
 I'm a research engineer at the Center of Modelling and Simulation of Strasbourg ([Cemosis](http://www.cemosis.fr)),

@@ -3,6 +3,7 @@ site_author: Thomas Saigre
 
 theme:
   name: material
+  logo: assets/logo.svg
 
   palette:
     # scheme: slate

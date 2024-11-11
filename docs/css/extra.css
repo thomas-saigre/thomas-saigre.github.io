@@ -19,3 +19,20 @@
   height: 16px;
   margin-right: 8px; /* Increased space between icon and text */
 }
+
+/*.md-button:hover {
+  animation: heart 1000ms infinite;
+}*/
+
+
+@keyframes heart {
+  0%, 40%, 80%, 100% {
+    transform: scale(1);
+  }
+  20%, 60% {
+    transform: scale(1.15);
+  }
+}
+.heart {
+  animation: heart 1000ms infinite;
+}
