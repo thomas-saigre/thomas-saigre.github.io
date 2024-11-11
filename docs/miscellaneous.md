@@ -34,3 +34,8 @@ Member of the steering committee for the Intsitut Thématique Interdisciplinaire
 Member of the Regional Organizing Committee for the Strasbourg regional tournaments of the [Tournois Français des Jeunes Mathématiciennes et Mathématiciens](https://tfjm.org/) in 2025, 2023 (April 15 and 16) 2021, (April 24 and 25, held online due to the pandemic), and 2018 (April 7 and 8).
 
 Supervision of the Cercle Mathématiques de Strasbourg team in 2024 and 2023.
+
+
+## Pass Escalade SUAPS
+
+Since September 2019, I have been responsible for the free climbing slot at the [SUAPS](https://suaps.unistra.fr/) of the University of Strasbourg.
