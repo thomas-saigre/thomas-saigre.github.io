@@ -43,3 +43,4 @@ fontawesome-brands-google-scholar
 fontawesome-brands-orcid
 md-button
 SUAPS
+MkDocs
