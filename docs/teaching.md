@@ -14,7 +14,7 @@ hide:
 
 Au lycée Kléber:
 
-- Colles d'analyse en MPSI (2 heures)
+- Colles d'analyse en MPSI
 
 
 ## Année 2022 - 2023
@@ -27,9 +27,9 @@ Au lycée Kléber:
 
 À l'[UFR de Mathématique et d'Informatique](https://mathinfo.unistra.fr/) de l'Université de Strasbourg:
 
-- Calcul Scientifique L2 math (17 h)
-- Analyse numérique appliquée L2 info, TD et TP (12 h)
-- Colle d'analyse en L1 MPA (1 h)
+- Calcul Scientifique L2 math
+- Analyse numérique appliquée L2 info, TD et TP
+- Colle d'analyse en L1 MPA
 
 
 ## Cercle Mathématique de Strasbourg

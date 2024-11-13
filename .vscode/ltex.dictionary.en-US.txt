@@ -44,3 +44,4 @@ fontawesome-brands-orcid
 md-button
 SUAPS
 MkDocs
+Évian-les-Bains
