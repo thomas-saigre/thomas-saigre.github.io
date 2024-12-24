@@ -20,7 +20,9 @@ hide:
 I'm a research engineer at the Center of Modelling and Simulation of Strasbourg ([Cemosis](http://www.cemosis.fr)),
 at the [Institut de Recherche Mathématique Avancée](https://irma.math.unistra.fr/) (IRMA) in Strasbourg, France.
 
-<!-- In December 2024, I defended my PhD thesis under the supervision of [Christophe Prud'homme](https://cv.archives-ouvertes.fr/christophe-prudhomme) (IRMA, Université de Strasbourg) and [Marcela Szopos](http://helios.mi.parisdescartes.fr/~mszoposh/) (MAP5, Université Paris Cité). -->
+In December 2024, I defended my PhD thesis under the supervision of [Christophe Prud'homme](https://cv.archives-ouvertes.fr/christophe-prudhomme) (IRMA, Université de Strasbourg) and [Marcela Szopos](http://helios.mi.parisdescartes.fr/~mszoposh/) (MAP5, Université Paris Cité), whose subject was
+*Mathematical modeling, simulation and reduced order modeling of ocular flows and their interactions: Building the Eye’s Digital Twin.*
+[![HAL](assets/hal-white.svg#only-dark)![HAL](assets/hal.svg#only-light) HAL](https://theses.hal.science/tel-04813671){:.badge}
 
 
 

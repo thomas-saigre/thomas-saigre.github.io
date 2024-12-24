@@ -27,3 +27,4 @@
 {"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\Q12 October 2023: Séminaire doctorant de l'IRMA in Strasbourg: Estimation des interactions dans les communautés microbiennes via un algorithme GSA basé sur un réseau de neurones PDFPDF Slides{:.badge}\\E$"}
 {"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\Q15 June 2023: Séminaire doctorant de l'IRMA in Strasbourg: Réduction de modèles et analyse de sensibilité appliqué à un modèle biophysique dans l'œil humain PDFPDF Slides{:.badge}\\E$"}
 {"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\Q9 December 2021: Séminaire doctorant de l'IRMA in Strasbourg: Construction de jeux de tuiles apériodiques sur grille héxagonale PDFPDF Slides{:.badge}\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\Q13 December 2024: Groupe de travail Modélisation, Analyse et Simulation: Mathematical modeling, simulation and reduced order modeling of ocular flows and their interactions: Building the Eye's Digital Twin (abstract).\\E$"}

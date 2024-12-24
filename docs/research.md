@@ -29,16 +29,22 @@ I also took part in [CEMRACS 2023](http://smai.emath.fr/cemracs/cemracs23/) on t
 
 ## Publications
 
-- **Thomas Saigre**, Christophe Prud'homme, Marcela Szopos. Model order reduction and sensitivity analysis for complex heat transfer simulations inside the human eyeball. International Journal for Numerical Methods in Biomedical Engineering. 2024; 40(11):e3864.
+- **Thomas Saigre**, Christophe Prud'homme, Marcela Szopos. Model order reduction and sensitivity analysis for complex heat transfer simulations inside the human eyeball. *International Journal for Numerical Methods in Biomedical Engineering*. 2024; 40(11):e3864.
 [![DOI](assets/doi-white.svg#only-dark)![DOI](assets/doi.svg#only-light) 10.1002/cnm.3864](https://doi.org/10.1002/cnm.3864){:.badge}
 [![HAL](assets/hal-white.svg#only-dark)![HAL](assets/hal.svg#only-light) HAL](https://hal.science/hal-04361954){:.badge}
 [![arXiv](assets/arxiv-white.svg#only-dark)![arXiv](assets/arxiv.svg#only-light) arXiv](https://arxiv.org/abs/2401.01079){:.badge}
 
+- Paguiel Javan Hossie, Béatrice Laroche, Thibault Malou, Lucas Perrin, **Thomas Saigre**, Lorenzo Sala. Surrogate modeling of interactions in microbial communities through physics-informed neural networks. 2024. To appear in *ESAIM: Proceedings and Surveys*.
+[![HAL](assets/hal-white.svg#only-dark)![HAL](assets/hal.svg#only-light) HAL](https://hal.inrae.fr/hal-04440736){:.badge}
+
+### Thesis
+
+- **Thomas Saigre**. Mathematical modeling, simulation and reduced order modeling of ocular flows and their interactions: Building the Eye’s Digital Twin. PhD thesis, Université de Strasbourg, 2024.
+[![HAL](assets/hal-white.svg#only-dark)![HAL](assets/hal.svg#only-light) HAL](https://theses.hal.science/tel-04813671){:.badge}
+
 
 ### Preprints
 
-- Paguiel Javan Hossie, Béatrice Laroche, Thibault Malou, Lucas Perrin, **Thomas Saigre**, Lorenzo Sala. Surrogate modeling of interactions in microbial communities through physics-informed neural networks. 2024. Submitted.
-[![HAL](assets/hal-white.svg#only-dark)![HAL](assets/hal.svg#only-light) HAL](https://hal.inrae.fr/hal-04440736){:.badge}
 - **Thomas Saigre**, Vincent Chabannes, Christophe Prud'homme, and Marcela Szopos. A coupled fluid-dynamics-heat transfer model for 3D simulations of the aqueous humor flow in the human eye. In preparation.
 - Silvia Bertoluzza, Christophe Prud'homme, **Thomas Saigre**, and Marcela Szopos. Low to high order finite element resolution for elliptic problems in the presence of a Dirac source term. In preparation.
 
@@ -66,6 +72,10 @@ I also took part in [CEMRACS 2023](http://smai.emath.fr/cemracs/cemracs23/) on t
 
 
 ### Oral presentations at national conferences, workshops and seminars
+
+- 20 December 2024: [PhD Defense](https://irma.math.unistra.fr/soutenances/soutenance-modelisation-mathematique-simulation-et-reduction-d-ordre-de-flux-oculaires-et-leurs-interactions-:-construire-le-jumeau-numerique-de-l-oeil.html) [![PDF](assets/file-pdf-white.svg#only-dark)![PDF](assets/file-pdf.svg#only-light) Slides](assets/files/talks/2024defense.pdf){:.badge}
+
+- 13 December 2024: [Groupe de travail Modélisation, Analyse et Simulation](https://map5.mi.parisdescartes.fr/evenements/groupe-de-travail-modelisation-analyse-et-simulation/): Mathematical modeling, simulation and reduced order modeling of ocular flows and their interactions: Building the Eye’s Digital Twin ([abstract](https://map5.mi.parisdescartes.fr/events/thomas-saigre-irma-universite-de-strasbourg/)).
 
 - 28 May 2024: [CANUM 2024](https://canum2024.math.cnrs.fr/fr/) in Île de Ré: Low to high order finite element resolution for elliptic problems in the presence of a Dirac source term ([abstract](https://canum2024.math.cnrs.fr/programme/soumission/90650320-0c8b-42b3-ae5e-d29eadfd3377/abstract.pdf))
 [![PDF](assets/file-pdf-white.svg#only-dark)![PDF](assets/file-pdf.svg#only-light) Slides](https://canum2024.math.cnrs.fr/programme/soumission/c3b6a504-2c3e-46c5-a3ca-3a5331b69900/presentation.pdf){:.badge}
