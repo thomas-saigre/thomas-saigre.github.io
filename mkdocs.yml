@@ -1,4 +1,4 @@
-site_name: Thomas Saigre
+site_name: Thomas Saigre, PhD
 site_author: Thomas Saigre
 
 theme:
@@ -54,7 +54,9 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-  - Research: research.md
+  - Research:
+      - Research: research.md
+      - Talks: talks.md
   - Teaching: teaching.md
   - Miscellaneous: miscellaneous.md
   - CV: cv.pdf
