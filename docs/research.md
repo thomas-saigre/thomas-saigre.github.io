@@ -11,7 +11,7 @@ During my PhD, I worked on mathematical modeling, simulation and order reduction
 The models are simulated using the Feel++ library, to whose development I contribute.
 
 <div>
-    <a href="https://gitbuh.com/feelpp/feelpp">
+    <a href="https://github.com/feelpp/feelpp">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=feelpp&repo=feelpp&bg_color=1e2129&title_color=0366d6&text_color=bec1c6&icon_color=ffffff#only-dark" alt="Feel++">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=feelpp&repo=feelpp&bg_color=ffffff&title_color=0366d6&text_color=333333&icon_color=333333#only-light" alt="Feel++">
     </a>
