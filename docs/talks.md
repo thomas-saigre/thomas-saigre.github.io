@@ -1,13 +1,6 @@
 
 ## Oral presentations
 
-### Peer-reviewed conferences proceedings
-
-- **Thomas Saigre**, Christophe Prud'homme, Marcela Szopos, Vincent Chabannes. A coupled fluid-dynamics-heat transfer model for 3D simulations of the aqueous humor flow in the human eye. In: 8th International Conference on Computational and Mathematical Biomedical Engineering – CMBE2024 Proceedings. P. Nithiarasu and R. Löhner (Eds.), 2024; pp. 508 – 512.
-[![PDF Badge](assets/book-white.svg#only-dark)![PDF Badge](assets/book.svg#only-light) CMBE Proceedings](https://www.compbiomed.net/2024/cmbe-proceedings.htm){:.badge}
-[![HAL](assets/hal-white.svg#only-dark)![HAL](assets/hal.svg#only-light) HAL](https://hal.science/hal-04558924){:.badge}
-[![arXiv](assets/arxiv-white.svg#only-dark)![arXiv](assets/arxiv.svg#only-light) arXiv](https://arxiv.org/abs/2404.19353){:.badge}
-
 
 ### Presentations in international conferences
 
