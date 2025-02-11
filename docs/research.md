@@ -43,7 +43,8 @@ I also took part in [CEMRACS 2023](http://smai.emath.fr/cemracs/cemracs23/) on t
 
 ### Preprints
 
-- **Thomas Saigre**, Vincent Chabannes, Christophe Prud'homme, and Marcela Szopos. A coupled fluid-dynamics-heat transfer model for 3D simulations of the aqueous humor flow in the human eye. In preparation.
+- **Thomas Saigre**, Vincent Chabannes, Christophe Prud'homme, Marcela Szopos. Mathematical modeling and simulation of coupled aqueous humor flow and temperature distribution in a realistic 3D human eye geometry. 2025.
+[![HAL](assets/hal-white.svg#only-dark)![HAL](assets/hal.svg#only-light) HAL](https://hal.inrae.fr/hal-04918559){:.badge}
 - Silvia Bertoluzza, Christophe Prud'homme, **Thomas Saigre**, and Marcela Szopos. Low to high order finite element resolution for elliptic problems in the presence of a Dirac source term. In preparation.
 
 ### Peer-reviewed conferences proceedings
@@ -52,3 +53,8 @@ I also took part in [CEMRACS 2023](http://smai.emath.fr/cemracs/cemracs23/) on t
 [![PDF Badge](assets/book-white.svg#only-dark)![PDF Badge](assets/book.svg#only-light) CMBE Proceedings](https://www.compbiomed.net/2024/cmbe-proceedings.htm){:.badge}
 [![HAL](assets/hal-white.svg#only-dark)![HAL](assets/hal.svg#only-light) HAL](https://hal.science/hal-04558924){:.badge}
 [![arXiv](assets/arxiv-white.svg#only-dark)![arXiv](assets/arxiv.svg#only-light) arXiv](https://arxiv.org/abs/2404.19353){:.badge}
+
+
+<!-- ## Supervision
+
+- Pierre-Antoine Senger -->
