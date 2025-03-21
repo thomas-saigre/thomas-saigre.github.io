@@ -45,6 +45,7 @@ I also took part in [CEMRACS 2023](http://smai.emath.fr/cemracs/cemracs23/) on t
 
 - **Thomas Saigre**, Vincent Chabannes, Christophe Prud'homme, Marcela Szopos. Mathematical modeling and simulation of coupled aqueous humor flow and temperature distribution in a realistic 3D human eye geometry. 2025.
 [![HAL](assets/hal-white.svg#only-dark)![HAL](assets/hal.svg#only-light) HAL](https://hal.science/hal-04918559){:.badge}
+[![arXiv](assets/arxiv-white.svg#only-dark)![arXiv](assets/arxiv.svg#only-light) arXiv](https://arxiv.org/abs/2502.09119){:.badge}
 - Silvia Bertoluzza, Christophe Prud'homme, **Thomas Saigre**, and Marcela Szopos. Low to high order finite element resolution for elliptic problems in the presence of a Dirac source term. In preparation.
 
 ### Peer-reviewed conferences proceedings
