@@ -5,6 +5,7 @@ theme:
   name: material
   custom_dir: theme/overrides
   logo: assets/logo.svg
+  favicon: assets/nœnœuil.png
 
   palette:
     # scheme: slate
@@ -39,6 +40,8 @@ plugins:
 
 extra_css:
   - css/extra.css
+
+copyright: Copyright &copy; 2025 Thomas Saigre
 
 extra:
   social:
