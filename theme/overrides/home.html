@@ -1,0 +1,25 @@
+{% extends "main.html" %}
+
+<!-- Page content -->
+{% block container %}
+    <style>
+        .md-content {
+            margin: 20%; /* Reduce margin */
+            margin-top: 0;
+            margin-bottom: 0;
+            text-align: center; /* Center text */
+
+        }
+        .md-content__inner {
+            text-align: center; /* Ensure inner content is centered */
+        }
+    </style>
+    <div class="md-content" data-md-component="content">
+        <div class="md-content__inner">
+            <!-- Header -->
+            <header class="md-typeset">
+                {{ page.content }}
+            </header>
+        </div>
+    </div>
+{% endblock %}

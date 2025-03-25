@@ -3,6 +3,7 @@ site_author: Thomas Saigre
 
 theme:
   name: material
+  custom_dir: theme/overrides
   logo: assets/logo.svg
 
   palette:
@@ -31,6 +32,10 @@ plugins:
   - search
   - git-revision-date-localized:
       enable_creation_date: false
+  - minify:
+      minify_html: true
+      minify_js: true
+      minify_css: true
 
 extra_css:
   - css/extra.css
