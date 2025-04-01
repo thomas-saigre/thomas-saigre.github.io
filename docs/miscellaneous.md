@@ -22,7 +22,7 @@ hide:
 
 ## IRMA doctoral seminar
 
-Co-organizer of the [IRMA doctoral seminar](https://irma.math.unistra.fr/seminaires/seminaire-doctorants.html) in 2022-2023 with [Brieuc Frénais](https://irma.math.unistra.fr/~frenais/).
+Co-organizer of the [IRMA doctoral seminar](https://irma.math.unistra.fr/seminaires/seminaire-doctorants.html) in 2022-2023 with [Brieuc Frénais](https://brieucfrenais.github.io/).
 
 ## Young researcher Committee of ITI IRMIA++
 
