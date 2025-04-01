@@ -1,0 +1,38 @@
+/* Justify only the main content text */
+.md-content p,
+.md-content li {
+    text-align: justify;
+}
+
+.badge {
+  display: inline-flex;
+  align-items: center;
+  color: #2094f3;
+  padding: 0px 12px; /* Increased padding */
+  border: 1px solid #2094f3; /* Border color */
+  border-radius: 4px; /* Slight rounding for a badge look */
+  text-decoration: none;
+  /* background-color: #1e2129; */
+}
+
+.badge img {
+  height: 16px;
+  margin-right: 8px; /* Increased space between icon and text */
+}
+
+/*.md-button:hover {
+  animation: heart 1000ms infinite;
+}*/
+
+
+@keyframes heart {
+  0%, 40%, 80%, 100% {
+    transform: scale(1);
+  }
+  20%, 60% {
+    transform: scale(1.15);
+  }
+}
+.heart {
+  animation: heart 1000ms infinite;
+}
