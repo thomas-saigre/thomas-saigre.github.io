@@ -5,6 +5,11 @@ hide:
 ---
 <!-- LTeX: language=fr-FR -->
 
+## Année 2024 - 2025
+
+À l'[UFR de Mathématique et d'Informatique](https://mathinfo.unistra.fr/) de l'Université de Strasbourg:
+
+- Colles d'analyse en L2 MPA
 
 ## Année 2023 - 2024
 
