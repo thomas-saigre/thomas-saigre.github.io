@@ -7,4 +7,4 @@ good.html
 bad.html
 
 site/**
-venv/**
+.venv/**

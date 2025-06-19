@@ -16,9 +16,14 @@
 
 ### Oral presentations at national conferences, workshops and seminars
 
+- 18 June 2025: [CASA Colloquium](https://casa.win.tue.nl/home/) in Eindhoven, Netherlands: Toward digital twins for ocular applications: mathematical modeling, simulation and order reduction ([abstract](https://casa.win.tue.nl/home/event/colloquium-thomas-saigre-university-of-strasbourg/))
+[![PDF](assets/file-pdf-white.svg#only-dark)![PDF](assets/file-pdf.svg#only-light) Slides](assets/files/talks/2025casa.pdf){:.badge}
+
+- 3 June 2025: [Congrès de la SMAI 2025](https://smai2025.math.cnrs.fr/fr/) in Carcans-Maubuisson: Towards digital twins for ocular applications - a combined physics-based and data-driven approach ([abstract](https://smai2025.math.cnrs.fr/programme/soumission/b53ac8d8-332f-4083-a489-a870d7f6b71e/abstract.pdf)) [![PDF](assets/file-pdf-white.svg#only-dark)![PDF](assets/file-pdf.svg#only-light) Slides](https://smai2025.math.cnrs.fr/programme/soumission/18b41235-75aa-44f7-87b8-71d1d169aed4/presentation.pdf){:.badge}
+
 - 20 December 2024: [PhD Defense](https://irma.math.unistra.fr/soutenances/soutenance-modelisation-mathematique-simulation-et-reduction-d-ordre-de-flux-oculaires-et-leurs-interactions-:-construire-le-jumeau-numerique-de-l-oeil.html) [![PDF](assets/file-pdf-white.svg#only-dark)![PDF](assets/file-pdf.svg#only-light) Slides](assets/files/talks/2024defense.pdf){:.badge}
 
-- 13 December 2024: [Groupe de travail Modélisation, Analyse et Simulation](https://map5.mi.parisdescartes.fr/evenements/groupe-de-travail-modelisation-analyse-et-simulation/): Mathematical modeling, simulation and reduced order modeling of ocular flows and their interactions: Building the Eye’s Digital Twin ([abstract](https://map5.mi.parisdescartes.fr/events/thomas-saigre-irma-universite-de-strasbourg/)).
+- 13 December 2024: [Groupe de travail Modélisation, Analyse et Simulation](https://map5.mi.parisdescartes.fr/evenements/groupe-de-travail-modelisation-analyse-et-simulation/) at MAP5, Paris: Mathematical modeling, simulation and reduced order modeling of ocular flows and their interactions: Building the Eye’s Digital Twin ([abstract](https://map5.mi.parisdescartes.fr/events/thomas-saigre-irma-universite-de-strasbourg/)).
 
 - 28 May 2024: [CANUM 2024](https://canum2024.math.cnrs.fr/fr/) in Île de Ré: Low to high order finite element resolution for elliptic problems in the presence of a Dirac source term ([abstract](https://canum2024.math.cnrs.fr/programme/soumission/90650320-0c8b-42b3-ae5e-d29eadfd3377/abstract.pdf))
 [![PDF](assets/file-pdf-white.svg#only-dark)![PDF](assets/file-pdf.svg#only-light) Slides](https://canum2024.math.cnrs.fr/programme/soumission/c3b6a504-2c3e-46c5-a3ca-3a5331b69900/presentation.pdf){:.badge}
