@@ -50,8 +50,7 @@ I also took part in [CEMRACS 2023](http://smai.emath.fr/cemracs/cemracs23/) on t
 
 ### Peer-reviewed conferences proceedings
 
-- **Thomas Saigre**, Vincent Chabannes, Giovanna Guidoboni, Christophe Prud'Homme, Marcela Szopos, Sangly P. Srinivas. Effect of Cooling of the Ocular Surface on Endothelial Cell Sedimentation in Cell Injection Therapy: Insights from Computational Fluid Dynamics. ARVO 2025, May 2025, Salt Lake City, United States. To appear in _Investigative Ophthalmology & Visual Science_
-
+- **Thomas Saigre**, Vincent Chabannes, Giovanna Guidoboni, Christophe Prud'homme, Marcela Szopos, Sangly P Srinivas; Effect of Cooling of the Ocular Surface on Endothelial Cell Sedimentation in Cell Injection Therapy: Insights from Computational Fluid Dynamics. _Investigative Ophthalmology & Visual Science_ 2025;66(8):2921. [![PDF Badge](assets/book-white.svg#only-dark)![PDF Badge](assets/book.svg#only-light) IOVS](https://iovs.arvojournals.org/article.aspx?articleid=2804368){:.badge}
 - **Thomas Saigre**, Christophe Prud'homme, Marcela Szopos, Vincent Chabannes. A coupled fluid-dynamics-heat transfer model for 3D simulations of the aqueous humor flow in the human eye. In: 8th International Conference on Computational and Mathematical Biomedical Engineering – CMBE2024 Proceedings. P. Nithiarasu and R. Löhner (Eds.), 2024; pp. 508 – 512.
 [![PDF Badge](assets/book-white.svg#only-dark)![PDF Badge](assets/book.svg#only-light) CMBE Proceedings](https://www.compbiomed.net/2024/cmbe-proceedings.htm){:.badge}
 [![HAL](assets/hal-white.svg#only-dark)![HAL](assets/hal.svg#only-light) HAL](https://hal.science/hal-04558924){:.badge}
