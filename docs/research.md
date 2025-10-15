@@ -32,7 +32,8 @@ I also took part in [CEMRACS 2023](http://smai.emath.fr/cemracs/cemracs23/) on t
 [![HAL](assets/hal-white.svg#only-dark)![HAL](assets/hal.svg#only-light) HAL](https://hal.science/hal-04361954){:.badge}
 [![arXiv](assets/arxiv-white.svg#only-dark)![arXiv](assets/arxiv.svg#only-light) arXiv](https://arxiv.org/abs/2401.01079){:.badge}
 
-- Paguiel Javan Hossie, Béatrice Laroche, Thibault Malou, Lucas Perrin, **Thomas Saigre**, Lorenzo Sala. Surrogate modeling of interactions in microbial communities through physics-informed neural networks. 2024. To appear in *ESAIM: Proceedings and Surveys*.
+- Paguiel Javan Hossie, Béatrice Laroche, Thibault Malou, Lucas Perrin, **Thomas Saigre**, Lorenzo Sala. Surrogate modeling of interactions in microbial communities through physics-informed neural networks. 2024. ESAIM: ProcS 81 104-122 (2025).
+[![DOI](assets/doi-white.svg#only-dark)![DOI](assets/doi.svg#only-light) 10.1051/proc/202581104](https://doi.org/10.1051/proc/202581104){:.badge}
 [![HAL](assets/hal-white.svg#only-dark)![HAL](assets/hal.svg#only-light) HAL](https://hal.inrae.fr/hal-04440736){:.badge}
 
 ### Thesis
