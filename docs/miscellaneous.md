@@ -11,7 +11,7 @@ hide:
 
 - Rendez-vous des Jeunes Mathématiciennes et Informaticiennes: Supervision of a research workshop at the [RJMI](https://filles-et-maths.fr/rjmi/) 2024 and 2023 in Strasbourg.
 - Fête de la Science: animation of the [Enig'maths](https://www.fetedelascience.fr/parcours-enig-maths) course (2022, 2023) and of the IRMA stand on the [cube and its nets](https://www.fetedelascience.fr/le-cube-et-ses-patrons) (2022).
-- Participation to the [Scientific Game Jam](https://www.scientificgamejam.org/) of Strasbourg in 2023, with the production of a game based on the subject of my PhD thesis, with Matthieu Baumann, Elisa Krauffel, Sam Lezard, Jules Winter
+- Participation to the [Scientific Game Jam](https://www.scientificgamejam.org/) of Strasbourg in 2023, with the production of a game based on the subject of my PhD thesis, with Matthieu Baumann, Elisa Krauffel, Sam Lezard and Jules Winter.
 
 
 <iframe frameborder="0" src="https://itch.io/embed/1966165?bg_color=1e2129&amp;fg_color=bec1c6&amp;link_color=2094f3&amp;border_color=363636" width="552" height="167">
