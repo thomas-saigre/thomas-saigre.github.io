@@ -1,6 +1,6 @@
 # Webpage of Thomas Saigre
 
-Public link : [https://irma.math.unistra.fr/~saigre/](https://irma.math.unistra.fr/~saigre/) (or [http://thomas.saigre.fr/](http://thomas.saigre.fr/))
+Public link : (or [https://thomas-saigregithub.io/](https://thomas-saigregithub.io/))
 
 
 ## Setup
