@@ -4,11 +4,12 @@ title: Research
 
 ## Work
 
-I am working as a research engineer part of the [Exa-MA project](https://numpex.org/exama-methods-and-algorithms-for-exascale/) of the PEPR Numpex,
-especially working on discretization methods for Exascale simulations.
+I am currently working as a postdoctoral researcher on the project [PREMYOM](https://premyom.com/) in the INRIA team [MIMESIS](https://mimesis.inria.fr/),
+among with [Stéphane Cottin](https://stephanecotin.com/) and [Michel Duprez](https://michelduprez.fr).
+
 
 During my PhD, I worked on mathematical modeling, simulation and order reduction of ocular flows and their interactions.
-The models are simulated using the Feel++ library, to whose development I contribute.
+The models are simulated using the Feel++ library, to whose development I contributed.
 
 <div>
     <a href="https://github.com/feelpp/feelpp">
@@ -18,6 +19,8 @@ The models are simulated using the Feel++ library, to whose development I contri
 </div>
 
 I also took part in [CEMRACS 2023](http://smai.emath.fr/cemracs/cemracs23/) on the theme of «Scientific Machine Learning», and worked on a [project](http://smai.emath.fr/cemracs/cemracs23/doc/project_Sala_INRAE.pdf) to estimate interactions in microbial communities using neural networks. This project was proposed by [Lorenzo Sala](http://smai.emath.fr/cemracs/cemracs23/doc/project_Sala_INRAE.pdf) of INRAE, Jouy-en-Josas.
+
+I also worked as a research engineer part of the [Exa-MA project](https://numpex.org/exama-methods-and-algorithms-for-exascale/) of the PEPR Numpex, especially working on discretization methods for Exascale simulations.
 
 
 [My CV :fontawesome-solid-file-pdf:](cv.pdf){.md-button}
