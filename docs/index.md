@@ -66,4 +66,4 @@ In December 2024, I defended my PhD thesis under the supervision of [Christophe 
 B-218 (building eXplora)
 <br>
 **Mail:**
-[`thomas.saigre@math.unistra.fr`](mailto:thomas.saigre-tardif@inria.fr)
+[`thomas.saigre-tardif@inria.fr`](mailto:thomas.saigre-tardif@inria.fr)

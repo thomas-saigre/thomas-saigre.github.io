@@ -1,6 +1,6 @@
 # Webpage of Thomas Saigre
 
-Public link : (or [https://thomas-saigregithub.io/](https://thomas-saigregithub.io/))
+Public link : (or [https://thomas-saigre.github.io/](https://thomas-saigre.github.io/))
 
 
 ## Setup
