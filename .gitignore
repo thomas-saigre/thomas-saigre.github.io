@@ -3,8 +3,10 @@ ressources/files/*
 phd.thomas/*
 phd-redaction/*
 
-good.html
-bad.html
+!docs/cv.pdf
+!docs/assets/files/talks/*.pdf
+!docs/assets/files/reports/*.pdf
+!docs/assets/files/posters/*.pdf
 
 site/**
 .venv/**
