@@ -36,3 +36,11 @@
 .heart {
   animation: heart 1000ms infinite;
 }
+
+:root  > * {
+  /* --md-primary-fg-color:        #1067a3; */
+  --md-primary-fg-color--light: #ECB7B7;
+  --md-primary-fg-color--dark:  #90030C;
+  --md-accent-fg-color: rgb(251, 255, 0);
+}
+

@@ -6,6 +6,8 @@ theme:
   custom_dir: theme/overrides
   logo: assets/logo.svg
   favicon: assets/nœnœuil.png
+  font:
+    text: Inria Sans
 
   palette:
     # scheme: slate
@@ -18,7 +20,7 @@ theme:
         name: Switch to light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: blue
+      primary: red
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode

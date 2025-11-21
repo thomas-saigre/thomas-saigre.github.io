@@ -5,7 +5,7 @@ title: Research
 ## Work
 
 I am currently working as a postdoctoral researcher on the project [PREMYOM](https://premyom.com/) in the INRIA team [MIMESIS](https://mimesis.inria.fr/),
-among with [Stéphane Cottin](https://stephanecotin.com/) and [Michel Duprez](https://michelduprez.fr).
+among with [Stéphane Cotin](https://stephanecotin.com/) and [Michel Duprez](https://michelduprez.fr).
 
 
 During my PhD, I worked on mathematical modeling, simulation and order reduction of ocular flows and their interactions.
