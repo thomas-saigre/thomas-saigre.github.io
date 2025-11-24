@@ -7,9 +7,9 @@
 .badge {
   display: inline-flex;
   align-items: center;
-  color: #2094f3;
+  color: #4051b5;
   padding: 0px 12px; /* Increased padding */
-  border: 1px solid #2094f3; /* Border color */
+  border: 1px solid #4051b5; /* Border color */
   border-radius: 4px; /* Slight rounding for a badge look */
   text-decoration: none;
   /* background-color: #1e2129; */
@@ -36,3 +36,8 @@
 .heart {
   animation: heart 1000ms infinite;
 }
+
+:root  > * {
+  --md-accent-fg-color: #a32610;
+}
+
