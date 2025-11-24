@@ -11,16 +11,16 @@ theme:
 
   palette:
     # scheme: slate
-    # primary: blue
+    # - primary: custom
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: blue
+      primary: indigo
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: red
+      primary: indigo
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
