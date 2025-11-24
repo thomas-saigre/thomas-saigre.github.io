@@ -1,5 +1,7 @@
 ---
 title: Research
+hide:
+    - navigation
 ---
 
 ## Work

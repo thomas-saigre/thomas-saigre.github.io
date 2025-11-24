@@ -64,9 +64,8 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-  - Research:
-      - Research: research.md
-      - Talks: talks.md
+  - Research: research.md
+  - Diffusion: talks.md
   - Teaching: teaching.md
   - Miscellaneous: miscellaneous.md
   - CV: cv.pdf

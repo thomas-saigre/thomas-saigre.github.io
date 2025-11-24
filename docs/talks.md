@@ -1,4 +1,8 @@
-
+---
+title: Diffusion
+hide:
+    - navigation
+---
 ## Oral presentations
 
 
