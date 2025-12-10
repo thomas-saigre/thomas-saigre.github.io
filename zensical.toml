@@ -1,0 +1,23 @@
+[project]
+site_name = "Thomas Saigre-Tardif, PhD"
+site_author = "Thomas Saigre"
+site_url = "https://thomas-saigre.github.io"
+site_description = "My personal page :)"
+copyright = "&copy; 2025 Thomas Saigre"
+
+[project.theme]
+variant = "classic"
+
+palette.primart = "indigo"
+palette.scheme = "slate"
+
+
+[[project.theme.palette]]
+scheme = "default"
+toggle.icon = "lucide/sun"
+toggle.name = "Switch to dark mode"
+
+[[project.theme.palette]]
+scheme = "slate"
+toggle.icon = "lucide/moon"
+toggle.name = "Switch to light mode"
