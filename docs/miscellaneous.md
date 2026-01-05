@@ -29,16 +29,14 @@ You may find here some other coding projects I've made, useful or not !
 ### Tikzplotly
 
 A Python library that allows to convert a figure generated with Plotly to a ti*k*z code to be included in a LaTeX document,
-available on [PyPi](https://pypi.org/project/tikzplotly).
-
+available on [PyPi](https://pypi.org/project/tikzplotly).<br>
 [![Source Code](https://img.shields.io/badge/github-thomas--saigre/tikzplotly-blue?logo=github&style=flat-square)](https://github.com/thomas-saigre/tikzplotly)
 [![PyPi Version](https://img.shields.io/pypi/v/tikzplotly.svg?style=flat-square)](https://pypi.org/project/tikzplotly)
 [![PyPi Downloads](https://img.shields.io/pypi/dm/tikzplotly.svg?style=flat-square)](https://pypi.org/project/tikzplotly)
 
 ### Tikz-shields
 
-A LaTeX package that allows to include badges in the style of [img.shields.io](https://img.shields.io) in a LaTeX document, available on [CTAN](https://ctan.org/pkg/tikz-shields).
-
+A LaTeX package that allows to include badges in the style of [img.shields.io](https://img.shields.io) in a LaTeX document, available on [CTAN](https://ctan.org/pkg/tikz-shields).<br>
 [![Source Code](https://img.shields.io/badge/github-thomas--saigre/tikz--shields-blue?logo=github&style=flat-square)](https://github.com/thomas-saigre/tikz-shields)
 [![CTAN](https://img.shields.io/ctan/v/tikz-shields.svg?style=flat-square)](https://ctan.org/pkg/tikz-shields)
 
