@@ -28,7 +28,7 @@ I also worked as a research engineer part of the [Exa-MA project](https://numpex
 
 ## Publications
 
-- **Thomas Saigre**, Vincent Chabannes, Christophe Prud'homme, Marcela Szopos. Mathematical modeling and simulation of coupled aqueous humor flow and temperature distribution in a realistic 3D human eye geometry. 2025. _To appear in IJNMBE._
+- **Thomas Saigre**, Vincent Chabannes, Christophe Prud'homme, and Marcela Szopos, Mathematical Modeling and Simulation of Coupled Aqueous Humor Flow and Temperature Distribution in a Realistic 3D Human Eye Geometry, *International Journal for Numerical Methods in Biomedical Engineering* 42, no. 1 (2026): e70132, https://doi.org/10.1002/cnm.70132.
 [![DOI](assets/doi-white.svg#only-dark)![DOI](assets/doi.svg#only-light) 10.1002/cnm.70132](https://doi.org/10.1002/cnm.70132){:.badge}
 [![HAL](assets/hal-white.svg#only-dark)![HAL](assets/hal.svg#only-light) HAL](https://hal.science/hal-04918559){:.badge}
 [![arXiv](assets/arxiv-white.svg#only-dark)![arXiv](assets/arxiv.svg#only-light) arXiv](https://arxiv.org/abs/2502.09119){:.badge}
