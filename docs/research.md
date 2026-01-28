@@ -15,7 +15,7 @@ The models are simulated using the Feel++ library, to whose development I contri
 [![Source Code](https://img.shields.io/badge/github-feelpp/feelpp-blue?logo=github&style=flat-square)](https://github.com/feelpp/feelpp)
 
 
-I also took part in [CEMRACS 2023](http://smai.emath.fr/cemracs/cemracs23/) on the theme of «Scientific Machine Learning», and worked on a [project](http://smai.emath.fr/cemracs/cemracs23/doc/project_Sala_INRAE.pdf) to estimate interactions in microbial communities using neural networks. This project was proposed by [Lorenzo Sala](http://smai.emath.fr/cemracs/cemracs23/doc/project_Sala_INRAE.pdf) of INRAE, Jouy-en-Josas.
+I also took part in [CEMRACS 2023](http://smai.emath.fr/cemracs/cemracs23/) on the theme of « Scientific Machine Learning », and worked on a [project](http://smai.emath.fr/cemracs/cemracs23/doc/project_Sala_INRAE.pdf) to estimate interactions in microbial communities using neural networks. This project was proposed by [Lorenzo Sala](http://smai.emath.fr/cemracs/cemracs23/doc/project_Sala_INRAE.pdf) of INRAE, Jouy-en-Josas.
 
 I also worked as a research engineer part of the [Exa-MA project](https://numpex.org/exama-methods-and-algorithms-for-exascale/) of the PEPR Numpex, especially working on discretization methods for Exascale simulations.
 
@@ -75,7 +75,10 @@ I also worked as a research engineer part of the [Exa-MA project](https://numpex
 [![HAL](assets/hal-white.svg#only-dark)![HAL](assets/hal.svg#only-light) HAL](https://hal.science/hal-05106849){:.badge}
 [> ![zenodo](assets/zenodo.svg)](https://dx.doi.org/10.5281/zenodo.13829740){:.badge}
 [![GitHub](assets/github-mark-white.svg#only-dark)![GitHub](assets/github-mark.svg#only-light) GitHub](https://github.com/feelpp/mesh.eye){:.badge}
-
+- Christophe Prud'homme, Vincent Chabannes, & Thomas Saigre. (2025). feelpp/feelpp: Feel++ Release V111 preview.11 (v0.111.0-preview.11). Zenodo.
+[![GitHub](assets/github-mark-white.svg#only-dark)![GitHub](assets/github-mark.svg#only-light) GitHub](https://github.com/feelpp/feelpp){:.badge}
+[> ![zenodo](assets/zenodo.svg)](https://doi.org/10.5281/zenodo.14916045){:.badge}
+[![Software Heritage](assets/software-heritage-logo-white.svg#only-dark)![Software Heritage](assets/software-heritage-logo-black.svg#only-light) Software Heritage](https://archive.softwareheritage.org/swh:1:dir:9f3a5331088e3677d98cc4bff7bde45b37d33290){:.badge}
 
 
 
