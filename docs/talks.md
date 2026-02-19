@@ -8,6 +8,10 @@ hide:
 
 ### Presentations in international conferences
 
+- [ARVO 2025](https://www.arvo.org/annual-meeting/) in Salt Lake City, UT, USA: Effect of Cooling of the Ocular Surface on Endothelial Cell Sedimentation in Cell Injection Therapy: Insights from Computational Fluid Dynamics
+([abstract](https://eppro02.ativ.me/web/index.php?page=Session&project=ARVO25&id=4257610))
+[![HAL](assets/hal-white.svg#only-dark)![HAL](assets/hal.svg#only-light) Poster](https://hal.science/hal-05072761){:.badge}
+
 - 26 June 2024: [CMBE 2024](https://www.compbiomed.net/2024/) in Arlington, USA: A coupled fluid-dynamics-heat transfer model for 3D simulations of the aqueous humor flow in the human eye
 [![PDF](assets/file-pdf-white.svg#only-dark)![PDF](assets/file-pdf.svg#only-light) Slides](assets/files/talks/2024cmbe.pdf){:.badge}
 
@@ -53,12 +57,6 @@ hide:
 - 9 December 2021: [Séminaire doctorant de l'IRMA](https://irma.math.unistra.fr/seminaires/seminaire-doctorants-2021.html) in Strasbourg: Construction de jeux de tuiles apériodiques sur grille héxagonale
 [![PDF](assets/file-pdf-white.svg#only-dark)![PDF](assets/file-pdf.svg#only-light) Slides](assets/files/talks/2021pavages.pdf){:.badge}
 
-
-### Poster in conferences
-
-- [ARVO 2025](https://www.arvo.org/annual-meeting/) in Salt Lake City, UT, USA: Effect of Cooling of the Ocular Surface on Endothelial Cell Sedimentation in Cell Injection Therapy: Insights from Computational Fluid Dynamics
-([abstract](https://eppro02.ativ.me/web/index.php?page=Session&project=ARVO25&id=4257610))
-[![HAL](assets/hal-white.svg#only-dark)![HAL](assets/hal.svg#only-light) Poster](https://hal.science/hal-05072761){:.badge}
 
 - [CANUM 2020](https://canum2020.math.cnrs.fr/accueil/) in Évian-les-Bains, 13 June 2022 and [JMBS 2022](https://jmbs2022.sciencesconf.org/) in Besançon, 3 - 7 October 2022: Model order reduction for complex ocular simulations inside the human eyeball
 [![PDF](assets/file-pdf-white.svg#only-dark)![PDF](assets/file-pdf.svg#only-light) Poster](assets/files/posters/ed.pdf){:.badge}

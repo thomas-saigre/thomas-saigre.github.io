@@ -1,5 +1,5 @@
 ---
-title: Miscelannous
+title: Miscellaneous
 hide:
     - navigation
 ---
