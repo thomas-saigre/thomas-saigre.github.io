@@ -54,7 +54,7 @@ I also worked as a research engineer part of the [Exa-MA project](https://numpex
 
 - Silvia Bertoluzza, Christophe Prud'homme, **Thomas Saigre**, and Marcela Szopos. Low to high order finite element resolution for elliptic problems in the presence of a Dirac source term. _In preparation._
 
-### Peer-reviewed conferences proceedings
+### Conferences proceedings
 
 - **Thomas Saigre**, Vincent Chabannes, Giovanna Guidoboni, Christophe Prud'homme, Marcela Szopos, Sangly P Srinivas; Effect of Cooling of the Ocular Surface on Endothelial Cell Sedimentation in Cell Injection Therapy: Insights from Computational Fluid Dynamics. _Investigative Ophthalmology & Visual Science_ 2025;66(8):2921. [![PDF Badge](assets/book-white.svg#only-dark)![PDF Badge](assets/book.svg#only-light) IOVS](https://iovs.arvojournals.org/article.aspx?articleid=2804368){:.badge}
 - **Thomas Saigre**, Christophe Prud'homme, Marcela Szopos, Vincent Chabannes. A coupled fluid-dynamics-heat transfer model for 3D simulations of the aqueous humor flow in the human eye. In: 8th International Conference on Computational and Mathematical Biomedical Engineering – CMBE2024 Proceedings. P. Nithiarasu and R. Löhner (Eds.), 2024; pp. 508 – 512.
