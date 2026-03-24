@@ -15,7 +15,7 @@ The models are simulated using the Feel++ library, to whose development I contri
 [![Source Code](https://img.shields.io/badge/github-feelpp/feelpp-blue?logo=github&style=flat-square)](https://github.com/feelpp/feelpp)
 
 
-I also took part in [CEMRACS 2023](http://smai.emath.fr/cemracs/cemracs23/) on the theme of « Scientific Machine Learning », and worked on a [project](http://smai.emath.fr/cemracs/cemracs23/doc/project_Sala_INRAE.pdf) to estimate interactions in microbial communities using neural networks. This project was proposed by [Lorenzo Sala](http://smai.emath.fr/cemracs/cemracs23/doc/project_Sala_INRAE.pdf) of INRAE, Jouy-en-Josas.
+I also took part in [CEMRACS 2023](http://smai.emath.fr/cemracs/cemracs23/) on the theme of «Scientific Machine Learning», and worked on a [project](http://smai.emath.fr/cemracs/cemracs23/doc/project_Sala_INRAE.pdf) to estimate interactions in microbial communities using neural networks. This project was proposed by [Lorenzo Sala](http://smai.emath.fr/cemracs/cemracs23/doc/project_Sala_INRAE.pdf) of INRAE, Jouy-en-Josas.
 
 I also worked as a research engineer part of the [Exa-MA project](https://numpex.org/exama-methods-and-algorithms-for-exascale/) of the PEPR Numpex, especially working on discretization methods for Exascale simulations.
 
@@ -63,9 +63,10 @@ I also worked as a research engineer part of the [Exa-MA project](https://numpex
 [![arXiv](assets/arxiv-white.svg#only-dark)![arXiv](assets/arxiv.svg#only-light) arXiv](https://arxiv.org/abs/2404.19353){:.badge}
 
 
-<!-- ### Other publications
+### Other publications
 
-- YopungPEx -->
+- Mathis Certenais, Romain Garbage, Karmijn Hoogveld, **Thomas Saigre**, Méline Trochon. Assemblée Générale Des Jeunes Chercheur·se·s de NumPEx : YoungPEx. Matapli 139 (2026).
+[![PDF Badge](assets/book-white.svg#only-dark)![PDF Badge](assets/book.svg#only-light) Matapli 139](http://smai.emath.fr/spip.php?article154&lang=fr){:.badge} :material-information-outline:{ title="Le numéro 139 n'est pas encore disponible en ligne." }
 
 
 ## Software and codes

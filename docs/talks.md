@@ -24,6 +24,8 @@ hide:
 
 ### Oral presentations at national conferences, workshops and seminars
 
+- 11 March 2026: PREMYOM Symposium in Créteil: Estimating head-neck muscle activation for target skull positioning [![PDF](assets/file-pdf-white.svg#only-dark)![PDF](assets/file-pdf.svg#only-light) Poster&#8239;](#){:.badge-na} :material-information-outline:{ title="Not yet available."}
+
 - 18 June 2025: [CASA Colloquium](https://casa.win.tue.nl/home/) in Eindhoven, Netherlands: Toward digital twins for ocular applications: mathematical modeling, simulation and order reduction ([abstract](https://casa.win.tue.nl/home/event/colloquium-thomas-saigre-university-of-strasbourg/))
 [![PDF](assets/file-pdf-white.svg#only-dark)![PDF](assets/file-pdf.svg#only-light) Slides](assets/files/talks/2025casa.pdf){:.badge}
 
@@ -58,7 +60,7 @@ hide:
 [![PDF](assets/file-pdf-white.svg#only-dark)![PDF](assets/file-pdf.svg#only-light) Slides](assets/files/talks/2021pavages.pdf){:.badge}
 
 
-- [CANUM 2020](https://canum2020.math.cnrs.fr/accueil/) in Évian-les-Bains, 13 June 2022 and [JMBS 2022](https://jmbs2022.sciencesconf.org/) in Besançon, 3 - 7 October 2022: Model order reduction for complex ocular simulations inside the human eyeball
+- [CANUM 2020](https://canum2020.math.cnrs.fr/accueil/) in Évian-les-Bains, 13 June 2022 and [JMBS 2022](https://jmbs2022.sciencesconf.org/) in Besançon, 3–7 October 2022: Model order reduction for complex ocular simulations inside the human eyeball
 [![PDF](assets/file-pdf-white.svg#only-dark)![PDF](assets/file-pdf.svg#only-light) Poster](assets/files/posters/ed.pdf){:.badge}
 
 
