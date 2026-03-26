@@ -24,7 +24,7 @@ hide:
 
 ### Oral presentations at national conferences, workshops and seminars
 
-- 11 March 2026: PREMYOM Symposium in Créteil: Estimating head-neck muscle activation for target skull positioning [![PDF](assets/file-pdf-white.svg#only-dark)![PDF](assets/file-pdf.svg#only-light) Poster&#8239;](#){:.badge-na} :material-information-outline:{ title="Not yet available."}
+- 11 March 2026: PREMYOM Symposium in Créteil: Estimating head-neck muscle activation for target skull positioning <span class="badge">![PDF](assets/file-pdf-white.svg#only-dark)![PDF](assets/file-pdf.svg#only-light) Poster</span> :material-information-outline:{title="Not yet available."}
 
 - 18 June 2025: [CASA Colloquium](https://casa.win.tue.nl/home/) in Eindhoven, Netherlands: Toward digital twins for ocular applications: mathematical modeling, simulation and order reduction ([abstract](https://casa.win.tue.nl/home/event/colloquium-thomas-saigre-university-of-strasbourg/))
 [![PDF](assets/file-pdf-white.svg#only-dark)![PDF](assets/file-pdf.svg#only-light) Slides](assets/files/talks/2025casa.pdf){:.badge}
