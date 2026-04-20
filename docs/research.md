@@ -90,4 +90,5 @@ I also worked as a research engineer part of the [Exa-MA project](https://numpex
 
 ## Other experiences
 
-- Reviewer for the journal _Computer Methods in Biomechanics and Biomedical Engineering_.
+- 2026 : Reviewer for the journal _Proceedings of the Institution of Mechanical Engineers, Part H: Journal of Engineering in Medicine_.
+- 2025 : Reviewer for the journal _Computer Methods in Biomechanics and Biomedical Engineering_.
