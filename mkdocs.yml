@@ -43,7 +43,7 @@ plugins:
 extra_css:
   - css/extra.css
 
-copyright: Copyright &copy; 2025 Thomas Saigre
+copyright: Copyright &copy; 2026 Thomas Saigre
 
 extra:
   social:
