@@ -1,6 +1,6 @@
 ---
-title: Thomas Saigre
-subtitle: Nullam urna elit, malesuada eget finibus ut, ac tortor
+title: Home
+subtitle: Welcome to my personal webpage !
 hide:
     - navigation
     - toc
@@ -29,7 +29,7 @@ template: home.html
 
 ## About me
 
-Since November 2025, I'm a postdoctoral researcher at [INRIA](https://www.inria.fr),
+Since November 2025, I'm a postdoctoral researcher at [INRIA](https://www.inria.fr) (Université de Lorraine),
 in the team [MIMESIS](https://mimesis.inria.fr/) in Strasbourg, France, working on the project [PREMYOM](https://premyom.com/).
 
 In December 2024, I defended my PhD thesis under the supervision of [Christophe Prud'homme](https://cv.archives-ouvertes.fr/christophe-prudhomme) (IRMA, Université de Strasbourg) and [Marcela Szopos](https://helios.mi.parisdescartes.fr/~mszoposh/) (MAP5, Université Paris Cité), whose subject was
