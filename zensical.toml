@@ -3,14 +3,32 @@ site_name = "Thomas Saigre-Tardif, PhD"
 site_author = "Thomas Saigre"
 site_url = "https://thomas-saigre.github.io"
 site_description = "My personal page :)"
-copyright = "&copy; 2025 Thomas Saigre"
+copyright = "Copyright &copy; 2026 Thomas Saigre"
+repo_url = "httos://github.com/thomas-saigre/thomas-saigre.github.io"
+repo_name = "thomas-saigre/thomas-saigre.github.io"
+
+
+nav = [
+    { "Home" = "index.md" },
+    { "Research" = "research.md" },
+    { "Diffusion" = "talks.md" },
+    { "Teaching" = "teaching.md" },
+    { "Miscellaneous" = "miscellaneous.md" },
+    { "CV" = "cv.pdf" }
+]
 
 [project.theme]
 variant = "classic"
+custom_dir = "overrides"
 
-palette.primart = "indigo"
-palette.scheme = "slate"
-
+features = [
+    # "content.code.copy",
+    # "navigation.sections",
+    # "navigation.top",
+    # "navigation.footer",
+    "toc.follow",
+    # "toc.integrate"
+]
 
 [[project.theme.palette]]
 scheme = "default"
@@ -21,3 +39,17 @@ toggle.name = "Switch to dark mode"
 scheme = "slate"
 toggle.icon = "lucide/moon"
 toggle.name = "Switch to light mode"
+
+palette.primart = "indigo"
+palette.scheme = "slate"
+
+
+# [[project.theme.palette]]
+# scheme = "default"
+# toggle.icon = "lucide/sun"
+# toggle.name = "Switch to dark mode"
+
+# [[project.theme.palette]]
+# scheme = "slate"
+# toggle.icon = "lucide/moon"
+# toggle.name = "Switch to light mode"
