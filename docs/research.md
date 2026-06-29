@@ -6,19 +6,14 @@ hide:
 
 ## Work
 
-I am currently working as a postdoctoral researcher on the project [PREMYOM](https://premyom.com/) in the INRIA team [MIMESIS](https://mimesis.inria.fr/),
-among with [Stéphane Cotin](https://stephanecotin.com/) and [Michel Duprez](https://michelduprez.fr).
+I am currently working as a postdoctoral researcher on the project [PREMYOM](https://premyom.com/) in the INRIA project-team [MIMESIS](https://mimesis.inria.fr/),
+among with [Stéphane Cotin](https://stephanecotin.com/), [Michel Duprez](https://michelduprez.fr) and Pablo Alvarez.
 
 
 During my PhD, I worked on mathematical modeling, simulation and order reduction of ocular flows and their interactions.
-The models are simulated using the Feel++ library, to whose development I contributed.
+The models are simulated using the Feel++ library, to whose development I contributed.<br>
+[![Source Code](https://img.shields.io/badge/github-feelpp/feelpp-blue?logo=github&style=flat-square)](https://github.com/feelpp/feelpp)
 
-<div>
-    <a href="https://github.com/feelpp/feelpp">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=feelpp&repo=feelpp&bg_color=1e2129&title_color=0366d6&text_color=bec1c6&icon_color=ffffff#only-dark" alt="Feel++">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=feelpp&repo=feelpp&bg_color=ffffff&title_color=0366d6&text_color=333333&icon_color=333333#only-light" alt="Feel++">
-    </a>
-</div>
 
 I also took part in [CEMRACS 2023](http://smai.emath.fr/cemracs/cemracs23/) on the theme of «Scientific Machine Learning», and worked on a [project](http://smai.emath.fr/cemracs/cemracs23/doc/project_Sala_INRAE.pdf) to estimate interactions in microbial communities using neural networks. This project was proposed by [Lorenzo Sala](http://smai.emath.fr/cemracs/cemracs23/doc/project_Sala_INRAE.pdf) of INRAE, Jouy-en-Josas.
 
@@ -32,6 +27,12 @@ I also worked as a research engineer part of the [Exa-MA project](https://numpex
 
 ## Publications
 
+- **Thomas Saigre**, Vincent Chabannes, Christophe Prud'homme, and Marcela Szopos, Mathematical Modeling and Simulation of Coupled Aqueous Humor Flow and Temperature Distribution in a Realistic 3D Human Eye Geometry, *International Journal for Numerical Methods in Biomedical Engineering* 42, no. 1 (2026): e70132.
+[![DOI](assets/doi-white.svg#only-dark)![DOI](assets/doi.svg#only-light) 10.1002/cnm.70132](https://doi.org/10.1002/cnm.70132){:.badge}
+[![HAL](assets/hal-white.svg#only-dark)![HAL](assets/hal.svg#only-light) HAL](https://hal.science/hal-04918559){:.badge}
+[![arXiv](assets/arxiv-white.svg#only-dark)![arXiv](assets/arxiv.svg#only-light) arXiv](https://arxiv.org/abs/2502.09119){:.badge}
+[![zenodo](assets/zenodo.svg) Dataset](https://doi.org/10.5281/zenodo.13886143){:.badge}
+
 - Paguiel Javan Hossie, Béatrice Laroche, Thibault Malou, Lucas Perrin, **Thomas Saigre**, Lorenzo Sala. Surrogate modeling of interactions in microbial communities through Physics-Informed Neural Networks. ESAIM: Proceedings and Surveys, 2025, 81, pp.104-122.
 [![DOI](assets/doi-white.svg#only-dark)![DOI](assets/doi.svg#only-light) 10.1051/proc/202581104](https://doi.org/10.1051/proc/202581104){:.badge}
 [![HAL](assets/hal-white.svg#only-dark)![HAL](assets/hal.svg#only-light) HAL](https://hal.inrae.fr/hal-04440736){:.badge}
@@ -40,6 +41,8 @@ I also worked as a research engineer part of the [Exa-MA project](https://numpex
 [![DOI](assets/doi-white.svg#only-dark)![DOI](assets/doi.svg#only-light) 10.1002/cnm.3864](https://doi.org/10.1002/cnm.3864){:.badge}
 [![HAL](assets/hal-white.svg#only-dark)![HAL](assets/hal.svg#only-light) HAL](https://hal.science/hal-04361954){:.badge}
 [![arXiv](assets/arxiv-white.svg#only-dark)![arXiv](assets/arxiv.svg#only-light) arXiv](https://arxiv.org/abs/2401.01079){:.badge}
+[![zenodo](assets/zenodo.svg) Codes](https://doi.org/10.5281/zenodo.13907983){:.badge}
+
 
 ### Thesis
 
@@ -49,12 +52,9 @@ I also worked as a research engineer part of the [Exa-MA project](https://numpex
 
 ### Preprints
 
-- **Thomas Saigre**, Vincent Chabannes, Christophe Prud'homme, Marcela Szopos. Mathematical modeling and simulation of coupled aqueous humor flow and temperature distribution in a realistic 3D human eye geometry. 2025.
-[![HAL](assets/hal-white.svg#only-dark)![HAL](assets/hal.svg#only-light) HAL](https://hal.science/hal-04918559){:.badge}
-[![arXiv](assets/arxiv-white.svg#only-dark)![arXiv](assets/arxiv.svg#only-light) arXiv](https://arxiv.org/abs/2502.09119){:.badge}
-- Silvia Bertoluzza, Christophe Prud'homme, **Thomas Saigre**, and Marcela Szopos. Low to high order finite element resolution for elliptic problems in the presence of a Dirac source term. In preparation.
+- Silvia Bertoluzza, Christophe Prud'homme, **Thomas Saigre**, and Marcela Szopos. Low to high order finite element resolution for elliptic problems in the presence of a Dirac source term. _In preparation._
 
-### Peer-reviewed conferences proceedings
+### Conferences proceedings
 
 - **Thomas Saigre**, Vincent Chabannes, Giovanna Guidoboni, Christophe Prud'homme, Marcela Szopos, Sangly P Srinivas; Effect of Cooling of the Ocular Surface on Endothelial Cell Sedimentation in Cell Injection Therapy: Insights from Computational Fluid Dynamics. _Investigative Ophthalmology & Visual Science_ 2025;66(8):2921. [![PDF Badge](assets/book-white.svg#only-dark)![PDF Badge](assets/book.svg#only-light) IOVS](https://iovs.arvojournals.org/article.aspx?articleid=2804368){:.badge}
 - **Thomas Saigre**, Christophe Prud'homme, Marcela Szopos, Vincent Chabannes. A coupled fluid-dynamics-heat transfer model for 3D simulations of the aqueous humor flow in the human eye. In: 8th International Conference on Computational and Mathematical Biomedical Engineering – CMBE2024 Proceedings. P. Nithiarasu and R. Löhner (Eds.), 2024; pp. 508 – 512.
@@ -63,6 +63,32 @@ I also worked as a research engineer part of the [Exa-MA project](https://numpex
 [![arXiv](assets/arxiv-white.svg#only-dark)![arXiv](assets/arxiv.svg#only-light) arXiv](https://arxiv.org/abs/2404.19353){:.badge}
 
 
-<!-- ## Supervision
+### Other publications
 
-- Pierre-Antoine Senger -->
+- Mathis Certenais, Romain Garbage, Karmijn Hoogveld, **Thomas Saigre**, Méline Trochon. Assemblée Générale Des Jeunes Chercheur·se·s de NumPEx : YoungPEx. Matapli 139 (2026).
+[![PDF Badge](assets/book-white.svg#only-dark)![PDF Badge](assets/book.svg#only-light) Matapli 139](http://smai.emath.fr/spip.php?article154&lang=fr){:.badge} :material-information-outline:{ title="Le numéro 139 n'est pas encore disponible en ligne." }
+
+
+## Software and codes
+
+- Vincent Chabannes, Christophe Prud'Homme, **Thomas Saigre**, Sala Lorenzo, Marcela Szopos, et al. A 3D geometrical model and meshing procedures for the human eyeball. 2025.
+[![Software Heritage](assets/software-heritage-logo-white.svg#only-dark)![Software Heritage](assets/software-heritage-logo-black.svg#only-light) Software Heritage](https://archive.softwareheritage.org/swh:1:dir:a275c7afe02abd36a1124d0c6746fc45ee61c4f3){:.badge}
+[![HAL](assets/hal-white.svg#only-dark)![HAL](assets/hal.svg#only-light) HAL](https://hal.science/hal-05106849){:.badge}
+[> ![zenodo](assets/zenodo.svg)](https://dx.doi.org/10.5281/zenodo.13829740){:.badge}
+[![GitHub](assets/github-mark-white.svg#only-dark)![GitHub](assets/github-mark.svg#only-light) GitHub](https://github.com/feelpp/mesh.eye){:.badge}
+- Christophe Prud'homme, Vincent Chabannes, & Thomas Saigre. (2025). feelpp/feelpp: Feel++ Release V111 preview.11 (v0.111.0-preview.11). Zenodo.
+[![GitHub](assets/github-mark-white.svg#only-dark)![GitHub](assets/github-mark.svg#only-light) GitHub](https://github.com/feelpp/feelpp){:.badge}
+[> ![zenodo](assets/zenodo.svg)](https://doi.org/10.5281/zenodo.14916045){:.badge}
+[![Software Heritage](assets/software-heritage-logo-white.svg#only-dark)![Software Heritage](assets/software-heritage-logo-black.svg#only-light) Software Heritage](https://archive.softwareheritage.org/swh:1:dir:9f3a5331088e3677d98cc4bff7bde45b37d33290){:.badge}
+
+
+
+## Supervision
+
+- January to June 2025 : supervision of the CSMI master Internship of Pierre-Antoine Senger, [_Eye Kalman Project_](https://csmi.cemosis.fr/csmi-stages-2025/m2/_attachments/Senger-Pierre-Antoine.pdf), supervized with Christophe Prud'homme and Marcela Szopos.
+
+
+## Other experiences
+
+- 2026 : Reviewer for the journal _Proceedings of the Institution of Mechanical Engineers, Part H: Journal of Engineering in Medicine_.
+- 2025 : Reviewer for the journal _Computer Methods in Biomechanics and Biomedical Engineering_.
