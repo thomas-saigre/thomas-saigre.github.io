@@ -4,8 +4,8 @@ site_author = "Thomas Saigre"
 site_url = "https://thomas-saigre.github.io"
 site_description = "My personal page :)"
 copyright = "Copyright &copy; 2026 Thomas Saigre"
-repo_url = "httos://github.com/thomas-saigre/thomas-saigre.github.io"
-repo_name = "thomas-saigre/thomas-saigre.github.io"
+# repo_url = "https://github.com/thomas-saigre/thomas-saigre.github.io"
+# repo_name = "thomas-saigre/thomas-saigre.github.io"
 
 
 nav = [
@@ -17,31 +17,43 @@ nav = [
     { "CV" = "cv.pdf" }
 ]
 
+extra_css = ["css/extra.css"]
+
 [project.theme]
-variant = "classic"
+# variant = "classic"
 custom_dir = "overrides"
 
 features = [
     # "content.code.copy",
     # "navigation.sections",
-    # "navigation.top",
+    "navigation.top",
+    "navigation.tabs",
     # "navigation.footer",
     "toc.follow",
     # "toc.integrate"
 ]
 
+favicon = "assets/nœnœuil.png"
+
+font.text = "Inria Sans"
+
+logo = "assets/nœnœuil.png"
+
+
 [[project.theme.palette]]
+media = "(prefers-color-scheme: light)"
 scheme = "default"
 toggle.icon = "lucide/sun"
 toggle.name = "Switch to dark mode"
 
 [[project.theme.palette]]
+media = "(prefers-color-scheme: dark)"
 scheme = "slate"
 toggle.icon = "lucide/moon"
 toggle.name = "Switch to light mode"
 
-palette.primart = "indigo"
-palette.scheme = "slate"
+# palette.primary = "indigo"
+# palette.scheme = "slate"
 
 
 # [[project.theme.palette]]
@@ -53,3 +65,19 @@ palette.scheme = "slate"
 # scheme = "slate"
 # toggle.icon = "lucide/moon"
 # toggle.name = "Switch to light mode"
+
+[[project.extra.social]]
+icon = "fontawesome/brands/github"
+link = "https://github.com/thomas-saigre"
+
+[[project.extra.social]]
+icon = "fontawesome/brands/orcid"
+link = "https://orcid.org/0009-0009-5763-4956"
+
+[[project.extra.social]]
+icon = "fontawesome/brands/google-scholar"
+link = "https://scholar.google.fr/citations?user=eXz9qmcAAAAJ&hl=fr&oi=ao"
+
+[[project.extra.social]]
+icon = "fontawesome/brands/linkedin"
+link = "https://www.linkedin.com/in/thomas-saigre-tardif-09722a1b7/"
