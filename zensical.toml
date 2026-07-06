@@ -20,7 +20,6 @@ nav = [
 extra_css = ["css/extra.css"]
 
 [project.theme]
-# variant = "classic"
 custom_dir = "overrides"
 
 features = [
@@ -42,13 +41,13 @@ logo = "assets/nœnœuil.png"
 
 [[project.theme.palette]]
 media = "(prefers-color-scheme: light)"
-scheme = "default"
+scheme = "myscheme-light"
 toggle.icon = "lucide/sun"
 toggle.name = "Switch to dark mode"
 
 [[project.theme.palette]]
 media = "(prefers-color-scheme: dark)"
-scheme = "slate"
+scheme = "myscheme-dark"
 toggle.icon = "lucide/moon"
 toggle.name = "Switch to light mode"
 
