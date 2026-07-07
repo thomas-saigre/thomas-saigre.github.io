@@ -8,16 +8,22 @@
   display: inline-flex;
   align-items: center;
   color: #4051b5;
-  padding: 0px 12px; /* Increased padding */
-  border: 1px solid #4051b5; /* Border color */
-  border-radius: 4px; /* Slight rounding for a badge look */
+  padding: 0px 12px;
+  border: 1px solid #4051b5;
+  border-radius: 4px;
   text-decoration: none;
-  /* background-color: #1e2129; */
+  min-height: 1.5em;  /* or an explicit px value, see below */
+  line-height: 1.5em; /* keep text vertically centered too */
 }
 
 .badge img {
   height: 16px;
-  margin-right: 8px; /* Increased space between icon and text */
+  display: block;   /* avoid inline baseline quirks */
+}
+
+.badge img + img,
+.badge img:first-child {
+  margin-right: 0px;
 }
 
 /*.md-button:hover {
@@ -125,7 +131,7 @@
   --ctp-surface2: #626880;
   --ctp-surface1: #51576d;
   --ctp-surface0: #414559;
-  --ctp-base: #303446;
+  --ctp-base: #212830;
   --ctp-mantle: #292c3c;
   --ctp-crust: #232634;
 
