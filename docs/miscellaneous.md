@@ -9,6 +9,7 @@ hide:
 
 ## Scientific animation and mediation
 
+- Supervision of a working group at [APEX Math](https://apexscientific.org/camp/apex-maths-2026-chisinau/) 2026 in Chișinău, Moldova.
 - Rendez-vous des Jeunes Mathématiciennes et Informaticiennes: Supervision of a research workshop at the [RJMI](https://filles-et-maths.fr/rjmi/) 2024 and 2023 in Strasbourg.
 - Fête de la Science: animation of the [Enig'maths](https://www.fetedelascience.fr/parcours-enig-maths) course (2022, 2023) and of the IRMA stand on the [cube and its nets](https://www.fetedelascience.fr/le-cube-et-ses-patrons) (2022).
 - Participation to the [Scientific Game Jam](https://www.scientificgamejam.org/) of Strasbourg in 2023, with the production of a game based on the subject of my PhD thesis, with Matthieu Baumann, Elisa Krauffel, Sam Lezard and Jules Winter.

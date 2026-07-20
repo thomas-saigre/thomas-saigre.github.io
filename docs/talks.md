@@ -8,6 +8,8 @@ hide:
 
 ### Presentations in international conferences
 
+- [VPH 2026](https://vph-conference.org/) in Milano, Italy: Estimating eye-head-neck muscle activations for target skull positioning.
+
 - [ARVO 2025](https://www.arvo.org/annual-meeting/) in Salt Lake City, UT, USA: Effect of Cooling of the Ocular Surface on Endothelial Cell Sedimentation in Cell Injection Therapy: Insights from Computational Fluid Dynamics
 ([abstract](https://eppro02.ativ.me/web/index.php?page=Session&project=ARVO25&id=4257610))
 [![HAL](assets/hal-white.svg#only-dark)![HAL](assets/hal.svg#only-light) Poster](https://hal.science/hal-05072761){:.badge}
