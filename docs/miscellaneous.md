@@ -22,6 +22,15 @@ hide:
 </iframe>
 
 
+## Apex
+
+Support of the talk «Intorduction to Finite Element Method», and Python code to get the numerical solution
+[![PDF](assets/file-pdf-white.svg#only-dark)![PDF](assets/file-pdf.svg#only-light) Slides](assets/files/talks/2026apex.pdf){:.badge}
+[![GitHub](assets/github-mark-white.svg#only-dark)![GitHub](assets/github-mark.svg#only-light) GitHub](https://github.com/thomas-saigre/apex2026.fem){:.badge}
+
+
+
+
 ## Other coding project
 
 You may find here some other coding projects I've made, useful or not !
