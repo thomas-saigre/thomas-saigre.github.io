@@ -10,3 +10,4 @@ phd-redaction/*
 
 site/**
 .venv/**
+tmp/**

@@ -1,6 +1,6 @@
 ---
 title: Thomas Saigre
-subtitle: Nullam urna elit, malesuada eget finibus ut, ac tortor
+subtitle: Postdoc at Inria
 hide:
     - navigation
     - toc
