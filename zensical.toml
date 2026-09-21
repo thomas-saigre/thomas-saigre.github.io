@@ -18,6 +18,7 @@ nav = [
 ]
 
 extra_css = ["css/extra.css"]
+extra_javascript = ["javascripts/last-updated.js"]
 
 [project.theme]
 variant = "classic"

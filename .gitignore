@@ -8,6 +8,8 @@ phd-redaction/*
 !docs/assets/files/reports/*.pdf
 !docs/assets/files/posters/*.pdf
 
+docs/assets/last-updated.json
+
 site/**
 .venv/**
 tmp/**
