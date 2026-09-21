@@ -2,40 +2,12 @@
 
 Public link : (or [https://thomas-saigre.github.io/](https://thomas-saigre.github.io/))
 
+This site is build using [Zensical](https://zensical.org/).
 
-## Setup
+## Build locally
 
-Some packages are required to build the website, with [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/).
-First create a virtual environment and install the required packages :
-
-```bash
-python3 -m venv venv
-source venv/bin/activate
-```
-
-Then install the required packages :
+To have the correct date displayed at the bottom of eahc page, run this script.
 
 ```bash
-pip install mkdocs mkdocs-material
-pip install mkdocs-git-revision-date-localized-plugin
-```
-
-## Build
-
-In dev mode :
-
-```bash
-mkdocs serve
-```
-
-To build the website :
-
-```bash
-mkdocs build
-```
-
-To run the pipeline to deploy it on IRMA server:
-
-```bash
-./build_and_upload_site.sh
+python scripts/gen_last_updated.py && zensical serve
 ```

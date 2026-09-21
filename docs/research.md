@@ -74,11 +74,11 @@ I also worked as a research engineer part of the [Exa-MA project](https://numpex
 - Vincent Chabannes, Christophe Prud'Homme, **Thomas Saigre**, Sala Lorenzo, Marcela Szopos, et al. A 3D geometrical model and meshing procedures for the human eyeball. 2025.
 [![Software Heritage](assets/software-heritage-logo-white.svg#only-dark)![Software Heritage](assets/software-heritage-logo-black.svg#only-light) Software Heritage](https://archive.softwareheritage.org/swh:1:dir:a275c7afe02abd36a1124d0c6746fc45ee61c4f3){:.badge}
 [![HAL](assets/hal-white.svg#only-dark)![HAL](assets/hal.svg#only-light) HAL](https://hal.science/hal-05106849){:.badge}
-[> ![zenodo](assets/zenodo.svg)](https://dx.doi.org/10.5281/zenodo.13829740){:.badge}
+[![Zenodo](assets/zenodo.svg)](https://dx.doi.org/10.5281/zenodo.13829740){:.badge}
 [![GitHub](assets/github-mark-white.svg#only-dark)![GitHub](assets/github-mark.svg#only-light) GitHub](https://github.com/feelpp/mesh.eye){:.badge}
 - Christophe Prud'homme, Vincent Chabannes, & Thomas Saigre. (2025). feelpp/feelpp: Feel++ Release V111 preview.11 (v0.111.0-preview.11). Zenodo.
 [![GitHub](assets/github-mark-white.svg#only-dark)![GitHub](assets/github-mark.svg#only-light) GitHub](https://github.com/feelpp/feelpp){:.badge}
-[> ![zenodo](assets/zenodo.svg)](https://doi.org/10.5281/zenodo.14916045){:.badge}
+[![Zenodo](assets/zenodo.svg)](https://doi.org/10.5281/zenodo.14916045){:.badge}
 [![Software Heritage](assets/software-heritage-logo-white.svg#only-dark)![Software Heritage](assets/software-heritage-logo-black.svg#only-light) Software Heritage](https://archive.softwareheritage.org/swh:1:dir:9f3a5331088e3677d98cc4bff7bde45b37d33290){:.badge}
 
 
