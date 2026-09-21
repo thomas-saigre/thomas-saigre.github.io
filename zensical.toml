@@ -14,56 +14,51 @@ nav = [
     { "Diffusion" = "talks.md" },
     { "Teaching" = "teaching.md" },
     { "Miscellaneous" = "miscellaneous.md" },
-    { "CV" = "cv.pdf" }
+    { "CV" = "cv.pdf" },
 ]
 
 extra_css = ["css/extra.css"]
 
 [project.theme]
+variant = "classic"
 custom_dir = "overrides"
-
-features = [
-    # "content.code.copy",
-    # "navigation.sections",
-    "navigation.top",
-    "navigation.tabs",
-    # "navigation.footer",
-    "toc.follow",
-    # "toc.integrate"
-]
-
-favicon = "assets/nœnœuil.png"
-
-font.text = "Inria Sans"
-
 logo = "assets/nœnœuil.png"
-
+favicon = "assets/nœnœuil.png"
+font.text = "Inria Sans"
+features = [
+    "navigation.tabs",
+    "navigation.sections",
+    "navigation.instant",
+    "navigation.top",
+    "toc.follow",
+]
 
 [[project.theme.palette]]
 media = "(prefers-color-scheme: light)"
-scheme = "myscheme-light"
+scheme = "default"
+primary = "custom"
+accent = "custom"
 toggle.icon = "lucide/sun"
 toggle.name = "Switch to dark mode"
 
 [[project.theme.palette]]
 media = "(prefers-color-scheme: dark)"
-scheme = "myscheme-dark"
+scheme = "slate"
+primary = "custom"
+accent = "custom"
 toggle.icon = "lucide/moon"
 toggle.name = "Switch to light mode"
 
-# palette.primary = "indigo"
-# palette.scheme = "slate"
+[project.plugins.minify]
+minify_html = true
+minify_js = true
+minify_css = true
 
+[project.markdown_extensions.attr_list]
 
-# [[project.theme.palette]]
-# scheme = "default"
-# toggle.icon = "lucide/sun"
-# toggle.name = "Switch to dark mode"
-
-# [[project.theme.palette]]
-# scheme = "slate"
-# toggle.icon = "lucide/moon"
-# toggle.name = "Switch to light mode"
+[project.markdown_extensions.pymdownx.emoji]
+emoji_index = "zensical.extensions.emoji.twemoji"
+emoji_generator = "zensical.extensions.emoji.to_svg"
 
 [[project.extra.social]]
 icon = "fontawesome/brands/github"

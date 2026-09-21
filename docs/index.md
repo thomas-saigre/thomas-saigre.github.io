@@ -36,7 +36,7 @@ template: home.html
 Since November 2025, I'm a postdoctoral researcher at [Inria (Université de Lorraine)](https://www.inria.fr/fr/centre-inria-universite-lorraine),
 in the team [MIMESIS](https://mimesis.inria.fr/) in Strasbourg, France, working on the project [PREMYOM](https://premyom.com/).
 
-In December 2024, I defended my PhD thesis under the supervision of [Christophe Prud'homme](https://cv.archives-ouvertes.fr/christophe-prudhomme) (IRMA, Université de Strasbourg) and [Marcela Szopos](https://helios.mi.parisdescartes.fr/~mszoposh/) (MAP5, Université Paris Cité), whose subject was
+In December 2024, I defended my PhD thesis under the supervision of [Christophe Prud'homme](https://cv.archives-ouvertes.fr/christophe-prudhomme) (IRMA, Université de Strasbourg) and [Marcela Szopos](https://helios2.mi.parisdescartes.fr/~mszoposh/) (MAP5, Université Paris Cité), whose subject was
 *Mathematical modeling, simulation and reduced order modeling of ocular flows and their interactions: Building the Eye’s Digital Twin.*
 [![HAL](assets/hal-white.svg#only-dark)![HAL](assets/hal.svg#only-light) HAL](https://theses.hal.science/tel-04813671){:.badge}
 
