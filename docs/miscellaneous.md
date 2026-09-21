@@ -21,6 +21,17 @@ hide:
 </iframe>
 
 
+## Apex
+
+Supervision of a working group at [APEX Math](https://apexscientific.org/camp/apex-maths-2026-chisinau/) 2026 in Chișinău, Moldova.
+
+Support of the evening talk «Intorduction to Finite Element Method», and Python code to get the numerical solutions
+[![PDF](assets/file-pdf-white.svg#only-dark)![PDF](assets/file-pdf.svg#only-light) Slides](assets/files/talks/2026apex.pdf){:.badge}
+[![GitHub](assets/github-mark-white.svg#only-dark)![GitHub](assets/github-mark.svg#only-light) Code](https://github.com/thomas-saigre/apex2026.fem){:.badge}
+
+
+
+
 ## Other coding project
 
 You may find here some other coding projects I've made, useful or not !

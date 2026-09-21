@@ -1,6 +1,6 @@
 ---
-title: Home
-subtitle: Welcome to my personal webpage !
+title: Thomas Saigre
+subtitle: Postdoc at Inria
 hide:
     - navigation
     - toc
