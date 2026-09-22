@@ -38,7 +38,7 @@ in the team [MIMESIS](https://mimesis.inria.fr/) in Strasbourg, France, working 
 
 In December 2024, I defended my PhD thesis under the supervision of [Christophe Prud'homme](https://cv.archives-ouvertes.fr/christophe-prudhomme) (IRMA, Université de Strasbourg) and [Marcela Szopos](https://helios2.mi.parisdescartes.fr/~mszoposh/) (MAP5, Université Paris Cité), whose subject was
 *Mathematical modeling, simulation and reduced order modeling of ocular flows and their interactions: Building the Eye’s Digital Twin.*
-[![HAL](assets/hal-white.svg#only-dark)![HAL](assets/hal.svg#only-light) HAL](https://theses.hal.science/tel-04813671){:.badge}
+[![HAL](assets/hal-white.svg#only-dark)![HAL](assets/hal.svg#only-light)&nbsp;HAL](https://theses.hal.science/tel-04813671){:.badge}
 
 
 

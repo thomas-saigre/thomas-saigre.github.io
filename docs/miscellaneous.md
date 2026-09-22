@@ -23,11 +23,11 @@ hide:
 
 ## Apex
 
-Supervision of a working group at [APEX Math](https://apexscientific.org/camp/apex-maths-2026-chisinau/) 2026 in Chișinău, Moldova.
+The [APEX Math](https://apexscientific.org/camp/apex-maths-2026-chisinau/) camp was a three‑week summer program in Chișinău, Moldova, where I supervised 15‑ to 18‑year‑old students studying advanced undergraduate and master‑level mathematics under the theme “From Matrices to Spectra: An Introduction to Szegő’s Theorem,” focusing on analysis and linear algebra.
 
-Support of the evening talk «Intorduction to Finite Element Method», and Python code to get the numerical solutions
-[![PDF](assets/file-pdf-white.svg#only-dark)![PDF](assets/file-pdf.svg#only-light) Slides](assets/files/talks/2026apex.pdf){:.badge}
-[![GitHub](assets/github-mark-white.svg#only-dark)![GitHub](assets/github-mark.svg#only-light) Code](https://github.com/thomas-saigre/apex2026.fem){:.badge}
+I presented in an _evening talk_ an introduction to the finite‑element method and shared several of my own research results that apply this technique.
+[![PDF](assets/file-pdf-white.svg#only-dark)![PDF](assets/file-pdf.svg#only-light)&nbsp;Slides](assets/files/talks/2026apex.pdf){:.badge}
+[![GitHub](assets/github-mark-white.svg#only-dark)![GitHub](assets/github-mark.svg#only-light)&nbsp;Code](https://github.com/thomas-saigre/apex2026.fem){:.badge}
 
 
 
@@ -58,9 +58,6 @@ Romain Garbage.
 
 - Organisation of the [First YoungPEx General Assembly](https://ag-youngpex2025.sciencesconf.org/) on 12-14 November 2025 in Toulouse.
 - Organisation of a workshop during [General Assembly of NumPEx](https://numpex.org/fr/la-numpex-tient-sa-premiere-assemblee-generale/) on 12 and 13 March 2025 in INRIA Center in Palaiseau.
-
-
-
 
 
 ## IRMA doctoral seminar

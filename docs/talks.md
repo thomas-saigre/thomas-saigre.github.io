@@ -8,7 +8,7 @@ hide:
 
 ### Presentations in international conferences
 
-- [VPH 2026](https://vph-conference.org/) in Milano, Italy: Estimating eye-head-neck muscle activations for target skull positioning.
+- [VPH 2026](https://vph-conference.org/) in Milano, Italy: Estimating eye-head-neck muscle activations for target skull positioning ([abstract](https://www.conftool.com/vph2026/index.php?page=browseSessions&presentations=show&form_date=2026-09-01&search=saigre))
 
 - [ARVO 2025](https://www.arvo.org/annual-meeting/) in Salt Lake City, UT, USA: Effect of Cooling of the Ocular Surface on Endothelial Cell Sedimentation in Cell Injection Therapy: Insights from Computational Fluid Dynamics
 ([abstract](https://eppro02.ativ.me/web/index.php?page=Session&project=ARVO25&id=4257610))
@@ -26,7 +26,8 @@ hide:
 
 ### Oral presentations at national conferences, workshops and seminars
 
-- 11 March 2026: PREMYOM Symposium in Créteil: Estimating head-neck muscle activation for target skull positioning <span class="badge">![PDF](assets/file-pdf-white.svg#only-dark)![PDF](assets/file-pdf.svg#only-light) Poster</span> :material-information-outline:{title="Not yet available."}
+- 11 March 2026: [PREMYOM Symposium](https://premyom.com/lang=fr) in Créteil: Estimating head-neck muscle activation for target skull positioning
+<!-- <span class="badge">![PDF](assets/file-pdf-white.svg#only-dark)![PDF](assets/file-pdf.svg#only-light) Poster</span> :material-information-outline:{title="Not yet available."} -->
 
 - 18 June 2025: [CASA Colloquium](https://casa.win.tue.nl/home/) in Eindhoven, Netherlands: Toward digital twins for ocular applications: mathematical modeling, simulation and order reduction ([abstract](https://casa.win.tue.nl/home/event/colloquium-thomas-saigre-university-of-strasbourg/))
 [![PDF](assets/file-pdf-white.svg#only-dark)![PDF](assets/file-pdf.svg#only-light)&nbsp;Slides](assets/files/talks/2025casa.pdf){:.badge}
