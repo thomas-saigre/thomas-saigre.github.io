@@ -25,6 +25,7 @@ jobs:
       - uses: actions/checkout@v7
         with:
           fetch-depth: 0   # Necessaty for the dates « Last updated »
+          lfs: true        # Get content of LFS files
 
       - uses: actions/setup-python@v6
         with:
