@@ -6,7 +6,7 @@ hide:
 
 ## Work
 
-I am currently working as a postdoctoral researcher on the project [PREMYOM](https://premyom.com/) in the INRIA project-team [MIMESIS](https://mimesis.inria.fr/),
+I am currently working as a postdoctoral researcher on the project [PREMYOM](https://premyom.com/) in the INRIA project-team [MIMESIS](https://team.inria.fr/mimesis/),
 among with [Stéphane Cotin](https://stephanecotin.com/), [Michel Duprez](https://michelduprez.fr) and Pablo Alvarez,
 working on a musculo-skeletal model of the human eye head and neck.
 
